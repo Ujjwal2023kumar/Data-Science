@@ -41,7 +41,8 @@ This repository contains a data science project focused on exploring, analyzing,
 
 ### Clone the repository:
 ``` git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name ```
+cd your-repo-name
+```
 
 ### Create and activate a virtual environment (recommended):
 ``` python -m venv venv
