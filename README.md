@@ -40,24 +40,24 @@ This repository contains a data science project focused on exploring, analyzing,
 ## ⚙️ Installation
 
 ### Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+``` git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name ```
 
 ### Create and activate a virtual environment (recommended):
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+``` python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate ```
 
 ### Install dependencies:
-pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 ## 📊 Usage
 
 ### Run Jupyter Notebook for exploration:
-jupyter notebook
+``` jupyter notebook ```
 
 ### Execute preprocessing and model training scripts:
-python src/data_preprocessing.py
-python src/model.py
+``` python src/data_preprocessing.py
+python src/model.py ```
 
 ## 📈 Results
 
