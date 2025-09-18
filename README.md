@@ -11,6 +11,7 @@ This repository contains a data science project focused on exploring, analyzing,
 - Deployment (optional)
 
 ## 📂 Repository Structure
+```
 ├── data/
 │   ├── raw/                # Original datasets
 │   ├── processed/          # Cleaned datasets
@@ -34,6 +35,7 @@ This repository contains a data science project focused on exploring, analyzing,
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
 └── LICENSE                 # License file (if applicable)
+```
 
 ## ⚙️ Installation
 
