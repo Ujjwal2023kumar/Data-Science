@@ -11,6 +11,7 @@ print(data.tail(10)) // it is used to display 10 tail rows data
 print(data.info()) // it is used to display data information
 data.describe()
 print(data.isnull())
+print(data.isnull().sum())
 
 Matplotlib
 Scikit-learn
