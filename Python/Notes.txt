@@ -8,7 +8,7 @@ print(data)
 print(data2)
 print(data.head(10)) // it is used to display 10 head rows data
 print(data.tail(10)) // it is used to display 10 tail rows data
-print(data.info(10)) // it is used to display data information
+print(data.info()) // it is used to display data information
 
 Matplotlib
 Scikit-learn
