@@ -1,5 +1,13 @@
 Python Libraries 
 NumPy 
-Pandas 
+
+Pandas:
+data = pd.read_excel("hotel_bookings.xlsx")
+data2 = pd.read_csv("hotel_bookings.xlsx")
+print(data)
+print(data2)
+print(data.head(10)) // it is used to display 10 head rows data
+print(data.tail(10)) // it is used to display 10 tail rows data
+
 Matplotlib
 Scikit-learn
