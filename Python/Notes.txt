@@ -15,7 +15,7 @@ print(data.isnull().sum())
 
 //Handling Duplicates
 print(data.duplicated())
-
+print(data["country"].duplicated())
 
 Matplotlib
 Scikit-learn
