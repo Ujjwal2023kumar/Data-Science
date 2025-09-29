@@ -16,6 +16,66 @@ print(data.isnull().sum())
 //Handling Duplicates
 print(data.duplicated())
 print(data["country"].duplicated())
+import pandas as pd
+
+data = pd.DataFrame({
+    "country": ["India", "USA", "India", "China", "USA", "Nepal"],
+    "code":    [91, 1, 91, 86, 1, 977]
+})
+
+# Check duplicates in entire DataFrame
+print(data.duplicated())
+
+# Check duplicates only in 'country'
+print(data["country"].duplicated())
+
+# Count duplicates
+print(data.duplicated().sum())
+print(data["country"].duplicated().sum())
+
+# Show duplicate rows (all columns considered)
+print(data[data.duplicated()])
+
+# Show duplicates based only on 'country'
+print(data[data.duplicated(subset="country")])
+
+# Keep last occurrence and mark earlier ones as duplicate
+print(data.duplicated(subset="country", keep="last"))
+# Remove duplicates across entire DataFrame
+df1 = data.drop_duplicates()
+
+# Remove duplicates based on 'country' column
+df2 = data.drop_duplicates(subset="country")
+
+# Keep the last occurrence
+df3 = data.drop_duplicates(subset="country", keep="last")
+
+# Keep no duplicates at all (remove all occurrences if duplicate exists)
+df4 = data.drop_duplicates(subset="country", keep=False)
+
+print(df1, df2, df3, df4, sep="\n\n")
+# Unique values in 'country'
+print(data["country"].unique())
+
+# Number of unique values
+print(data["country"].nunique())
+
+# Frequency of each value
+print(data["country"].value_counts())
+# Only duplicates (True mask)
+duplicates = data["country"].duplicated(keep=False)
+print(data[duplicates])
+
+# Only unique rows
+unique = ~data["country"].duplicated(keep=False)
+print(data[unique])
+# Drop duplicates and reset index
+df_clean = data.drop_duplicates().reset_index(drop=True)
+
+# Keep the first entry of each duplicate and mark others
+data["is_duplicate"] = data.duplicated(subset="country")
+print(data)
+
 
 Matplotlib
 Scikit-learn
