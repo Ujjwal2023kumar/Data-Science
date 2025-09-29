@@ -14,6 +14,8 @@ print(data.isnull())
 print(data.isnull().sum())
 
 //Handling Duplicates
+print(data.duplicated())
+
 
 Matplotlib
 Scikit-learn
