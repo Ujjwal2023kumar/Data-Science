@@ -95,4 +95,24 @@ plt.ylabel("Salary")
 
 # Show plot
 plt.show()
+
+# Clean column names (remove spaces if any)
+data.columns = data.columns.str.strip()
+
+# Make sure the column names match your file
+print("Available columns:", data.columns)
+
+# Pie chart
+plt.figure(figsize=(8, 8))
+plt.pie(
+    data["SALARY"],                # values
+    labels=data["EEID"],           # labels (Employee IDs)
+    autopct='%1.1f%%',             # show percentage
+    startangle=140                 # rotate start
+)
+
+plt.title("Salary Distribution by Employee ID")
+plt.show()
+
+
 Scikit-learn
