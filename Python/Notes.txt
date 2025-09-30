@@ -78,4 +78,21 @@ print(data)
 
 
 Matplotlib
+
+import matplotlib.pyplot as plt
+
+# Read Excel file
+data = pd.read_excel("D:\PYTHON\Excel\COMPANY1.xlsx")
+
+# Plot data
+plt.figure(figsize=(8, 5))
+plt.plot(data["EEID"], data["Salary"], marker='o')
+
+# Labels and title
+plt.title("Employee Data")
+plt.xlabel("Employee ID")
+plt.ylabel("Salary")
+
+# Show plot
+plt.show()
 Scikit-learn
