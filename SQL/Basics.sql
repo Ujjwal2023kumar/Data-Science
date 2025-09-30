@@ -41,25 +41,22 @@ REVOKE INSERT, UPDATE ON STUDENTS FROM user1;
 GRANT ALL PRIVILEGES ON STUDENTS TO user2;
 REVOKE ALL PRIVILEGES ON STUDENTS FROM user2;
 
-
-
--- tcl
--- commit
--- rollback
--- savepoint
-
-CREATE TABLE EMPLOYEE(
-  EMP_NAME VARCHAR(50),
-  EMP_ID NUMBER PRIMARY KEY,
-  LOCATION VARCCHAR(50) NOT NULL,
-  EMAIL VARCHAR(50) UNIQUE
-);
+-- TCL (Transaction Control Language)
+-- Start a transaction (implicit in most DBs when you run DML)
+-- 1. Insert some data
+INSERT INTO STUDENTS (NAME, ROLLNO, CITY, EMAIL, AGE) VALUES ('RAJ', 110, 'AGRA', 'raj@example.com', 22);
+-- 2. SAVEPOINT: mark a point inside a transaction
+SAVEPOINT sp1;
+-- 3. Another insert
+INSERT INTO STUDENTS (NAME, ROLLNO, CITY, EMAIL, AGE) VALUES ('KARAN', 111, 'SURAT', 'karan@example.com', 23);
+-- 4. ROLLBACK TO SAVEPOINT: undo changes after savepoint
+ROLLBACK TO sp1;   -- removes KARAN but keeps RAJ
+-- 5. COMMIT: permanently save all changes
+COMMIT;
+-- After commit, changes cannot be rolled back
 
 
 SELECT COUNT(NAME) FROM STUDENTS;
 SELECT MAX(EMP_ID) FROM STUDENTS;
 SELECT MIN(EMP_ID) FROM STUDENTS;
 SELECT AVG(EMP_ID) FROM STUDENTS;
-
-  
-SELECT * FROM EMPLOYEE;
