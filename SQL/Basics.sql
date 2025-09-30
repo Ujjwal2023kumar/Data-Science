@@ -36,24 +36,26 @@ DROP TABLE STUDENT_DETAILS;
 DROP TABLE CLASS;
 
 -- DCL (Data Control Language)
+
 GRANT SELECT, INSERT, UPDATE ON STUDENTS TO user1;
 REVOKE INSERT, UPDATE ON STUDENTS FROM user1;
 GRANT ALL PRIVILEGES ON STUDENTS TO user2;
 REVOKE ALL PRIVILEGES ON STUDENTS FROM user2;
 
 -- TCL (Transaction Control Language)
+
 -- Start a transaction (implicit in most DBs when you run DML)
 -- 1. Insert some data
-INSERT INTO STUDENTS (NAME, ROLLNO, CITY, EMAIL, AGE) VALUES ('RAJ', 110, 'AGRA', 'raj@example.com', 22);
 -- 2. SAVEPOINT: mark a point inside a transaction
-SAVEPOINT sp1;
 -- 3. Another insert
-INSERT INTO STUDENTS (NAME, ROLLNO, CITY, EMAIL, AGE) VALUES ('KARAN', 111, 'SURAT', 'karan@example.com', 23);
 -- 4. ROLLBACK TO SAVEPOINT: undo changes after savepoint
-ROLLBACK TO sp1;   -- removes KARAN but keeps RAJ
 -- 5. COMMIT: permanently save all changes
-COMMIT;
 -- After commit, changes cannot be rolled back
+INSERT INTO STUDENTS (NAME, ROLLNO, CITY, EMAIL, AGE) VALUES ('RAJ', 110, 'AGRA', 'raj@example.com', 22);
+SAVEPOINT sp1;
+INSERT INTO STUDENTS (NAME, ROLLNO, CITY, EMAIL, AGE) VALUES ('KARAN', 111, 'SURAT', 'karan@example.com', 23);
+ROLLBACK TO sp1;   -- removes KARAN but keeps RAJ
+COMMIT;
 
 
 SELECT COUNT(NAME) FROM STUDENTS;
