@@ -1,5 +1,3 @@
--- DDL (Data Definition Language)
-
 CREATE TABLE STUDENTS (
     NAME VARCHAR(50) NOT NULL,
     ROLLNO INTEGER PRIMARY KEY,
@@ -7,8 +5,6 @@ CREATE TABLE STUDENTS (
     EMAIL VARCHAR(100) UNIQUE,
     AGE INT CHECK (AGE >= 18)
 );
-
--- DML (Data Manipulation Language)
 
 INSERT INTO STUDENTS VALUES ('UJJWAL', 100, 'MEERUT', 'ujjwal@example.com', 20);
 INSERT INTO STUDENTS VALUES ('RAHUL', 101, 'DELHI', 'rahul@example.com', 21);
