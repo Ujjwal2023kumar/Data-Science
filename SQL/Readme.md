@@ -41,15 +41,26 @@ Perfect for data analysts, and data scientists who want to strengthen their SQL 
 - MAX()
 
 ### WORKING WITH DATA
-- SELECT
-- FROM
-- WHERE
-- DISTINCT
-- ORDER BY
+- EXTRACT()
+- DATE_PART()
+- DATE_TRUNC()
+- TO_CHAR()
 
-### WORKING WITH NULLS
-- IS NULL
-- IS NOT NULL
-- NULLIF()
-- COALESCE()
-- CASE STATEMENT
+### WORKING WITH TEXTS
+- CONCAT()
+- SUBSTRING()
+- LENGTH()
+- REPLACE()
+- TRIM()
+- POSITION()
+- UPPER() & LOWER()
+- REGEXP_REPLACE() & MATCHES() & SPLIT_TO_ARRAY()
+- LEFT() & RIGHT()
+- LTRIM() & RTRIM()
+
+### ANALYTICS + AGGREGATION
+- Window functions
+
+### CALCULATIONS WITHIN CALCULATIONS
+- Subqueries
+- CTEs
