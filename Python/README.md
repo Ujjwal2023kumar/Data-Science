@@ -31,15 +31,15 @@ Make sure you have the following installed:
 - matplotlib
 
 Install dependencies with:
-''' pip install numpy pandas matplotlib '''
+'' pip install numpy pandas matplotlib ''
 
 ## Usage
 Clone the repository and run any program:
-'''
-- git clone <your-repo-link>
-- cd <repo-name>
-- python filename.py
-'''
+''
+git clone <your-repo-link>
+cd <repo-name>
+python filename.py
+''
 
 ## Purpose
 This repo is perfect for students learning Python, Beginners practicing data structures and control flow and anyone starting with data analysis in Python.
