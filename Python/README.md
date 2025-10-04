@@ -1,4 +1,4 @@
-# PYTHON DATA ANALYSIS PRACTICE REPOSITORY
+# PYTHON REPOSITORY
 
 This repository is a collection of Python code examples and tutorials designed for beginners and learners who want to practice and strengthen their programming and data analysis skills. It covers core Python concepts as well as commonly used libraries for data-driven projects.
 
