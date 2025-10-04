@@ -10,9 +10,6 @@ This repository contains a collection of SQL scripts and queries designed for da
 - Performance optimization & best practices
 - Real-world datasets for hands-on practice
 
-Perfect for data analysts, and data scientists who want to strengthen their SQL skills in solving analytical problems.
-
-
 ## SQL CONCEPTS
 ### QUERYING AND FILTERING DATA
 - SELECT
