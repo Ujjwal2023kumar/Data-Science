@@ -31,7 +31,7 @@ Make sure you have the following installed:
 - matplotlib
 
 Install dependencies with:
-'' pip install numpy pandas matplotlib ''
+``` pip install numpy pandas matplotlib ```
 
 ## Usage
 Clone the repository and run any program:
