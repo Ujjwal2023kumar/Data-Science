@@ -13,7 +13,7 @@ This repository is a collection of Python code examples and tutorials designed f
 - functionProgram.py – Creating and using functions in Python.
 
 ### DATA ANALYSIS LIBRARIES
-- numpyProgram.py – Basics of NumPy: arrays, operations, and computations.
+- _01Numpy.py – Basics of NumPy: arrays, operations, and computations.
 - pandasProgram.py – Working with Pandas: DataFrames, Series, and data manipulation.
 - matplotlibProgram.py – Data visualization examples using Matplotlib.
  
