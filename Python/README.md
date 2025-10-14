@@ -6,11 +6,11 @@ This repository is a collection of Python code examples and tutorials designed f
 ### CORE PYTHON PROGRAMS
 - _06Program.py – Simple Python program for beginners.
 - _07Loops.py – Examples of conditional statements and loops.
+- _08Functions.py – Creating and using functions in Python.
 - stringProgram.py – String operations and manipulations.
 - listProgram.py – List operations and methods.
 - setProgram.py – Working with sets in Python.
 - dictionaryProgram.py – Dictionary operations and examples.
-- functionProgram.py – Creating and using functions in Python.
 
 ### DATA ANALYSIS LIBRARIES
 - _01Numpy.py – Basics of NumPy: arrays, operations, and computations.
