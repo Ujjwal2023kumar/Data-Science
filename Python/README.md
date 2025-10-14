@@ -14,7 +14,7 @@ This repository is a collection of Python code examples and tutorials designed f
 
 ### DATA ANALYSIS LIBRARIES
 - _01Numpy.py – Basics of NumPy: arrays, operations, and computations.
-- pandasProgram.py – Working with Pandas: DataFrames, Series, and data manipulation.
+- _02Pandas.py – Working with Pandas: DataFrames, Series, and data manipulation.
 - matplotlibProgram.py – Data visualization examples using Matplotlib.
  
 ## FEATURES
