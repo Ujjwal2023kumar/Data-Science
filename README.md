@@ -6,7 +6,7 @@ This repository contains a data science project focused on exploring, analyzing,
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Model Building & Evaluation
-- Deployment (optional)
+- Deployment
 
 ## INSTALLATION
 ### CLONE THE REPOSITORY:
