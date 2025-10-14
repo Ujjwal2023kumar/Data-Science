@@ -4,7 +4,7 @@ This repository is a collection of Python code examples and tutorials designed f
 
 ## REPOSITORY STRUCTURE
 ### CORE PYTHON PROGRAMS
-- secondProgram.py – Simple Python program for beginners.
+- _06Program.py – Simple Python program for beginners.
 - conditions_loop.py – Examples of conditional statements and loops.
 - stringProgram.py – String operations and manipulations.
 - listProgram.py – List operations and methods.
