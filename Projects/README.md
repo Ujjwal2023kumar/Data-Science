@@ -26,65 +26,37 @@ House Price Prediction	Built a regression model to predict house prices.	Linear 
 Sentiment Analysis	Classified tweets into positive, negative, and neutral sentiments.	NLP, Word Embeddings, LSTM
 Sales Forecasting	Forecasted sales using time series models.	ARIMA, Prophet, Seasonal Decomposition
 Credit Card Fraud Detection	Detected fraudulent transactions from imbalanced data.	Anomaly Detection, Ensemble Methods
-🧰 Tech Stack
 
-Languages: Python, SQL
+## Tech Stack
+- Languages: Python, SQL
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, tensorflow / pytorch
+- Visualization: Power BI, Tableau, Plotly
+- Version Control: Git, GitHub
+- Deployment: Flask, Streamlit, Docker (if applicable)
 
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, tensorflow / pytorch
-
-Visualization: Power BI, Tableau, Plotly
-
-Version Control: Git, GitHub
-
-Deployment: Flask, Streamlit, Docker (if applicable)
-
-⚙️ Installation
+## Installation
 
 To run any project locally:
-
-# Clone this repository
+### Clone this repository
 git clone https://github.com/<your-username>/Data-Science-Projects.git
 
-# Navigate into the project folder
+### Navigate into the project folder
 cd Data-Science-Projects/Project_Name
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-📊 Workflow Overview
+## Workflow Overview
+- Data Collection & Cleaning — Handle missing values, outliers, and data types.
+- Exploratory Data Analysis (EDA) — Visualize trends, distributions, and relationships.
+- Feature Engineering — Create new features and encode categorical data.
+- Model Building — Train and evaluate ML models.
+- Model Tuning — Optimize hyperparameters.
+- Visualization & Insights — Present results through dashboards or reports.
+- Deployment — Deploy models as APIs or web apps.
 
-Data Collection & Cleaning — Handle missing values, outliers, and data types.
-
-Exploratory Data Analysis (EDA) — Visualize trends, distributions, and relationships.
-
-Feature Engineering — Create new features and encode categorical data.
-
-Model Building — Train and evaluate ML models.
-
-Model Tuning — Optimize hyperparameters.
-
-Visualization & Insights — Present results through dashboards or reports.
-
-Deployment (optional) — Deploy models as APIs or web apps.
-
-📈 Results & Insights
-
+## Results & Insights
 Each project includes:
-
-Performance metrics (accuracy, RMSE, F1-score, etc.)
-
-Visualizations (heatmaps, plots, dashboards)
-
-Business or actionable insights
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo and submit a pull request.
-
-🧑‍💻 Author
-
-Ujjwal Kumar
-📧 [your-email@example.com
-]
-🌐 [LinkedIn Profile / Portfolio / Kaggle]
+- Performance metrics (accuracy, RMSE, F1-score, etc.)
+- Visualizations (heatmaps, plots, dashboards)
+- Business or actionable insights
