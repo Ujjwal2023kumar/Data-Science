@@ -2,7 +2,7 @@
 Welcome to my Data Science Projects repository!
 This repo contains multiple end-to-end data science projects that showcase real-world data analysis, machine learning, visualization, and model deployment skills.
 
-## Repository Structure
+## REPOSITORY STRUCTURE 
 ```
 Projects/
 │
@@ -15,23 +15,14 @@ Projects/
 └── README.md
 ```
 
-Each project folder includes:
-- data/ → raw and processed datasets
-- notebooks/ → Jupyter notebooks for analysis & modeling
-- scripts/ → Python scripts for data cleaning, feature engineering, training, etc.
-- models/ → trained models or checkpoints
-- results/ → visualizations, metrics, and reports
-
-## Tech Stack
+## TECH STACK
 - Languages: Python, SQL
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, tensorflow / pytorch
 - Visualization: Power BI, Tableau, Plotly
 - Version Control: Git, GitHub
 - Deployment: Flask, Streamlit, Docker (if applicable)
 
-## Installation
-
-To run any project locally:
+## INSTALLATION
 ### Clone this repository
 ``` git clone https://github.com/<your-username>/Data-Science-Projects.git ```
 
@@ -41,7 +32,7 @@ To run any project locally:
 ### Install dependencies
 ``` pip install -r requirements.txt ```
 
-## Workflow Overview
+## WORKFLOW OVERVIEW
 - Data Collection & Cleaning — Handle missing values, outliers, and data types.
 - Exploratory Data Analysis (EDA) — Visualize trends, distributions, and relationships.
 - Feature Engineering — Create new features and encode categorical data.
@@ -50,7 +41,7 @@ To run any project locally:
 - Visualization & Insights — Present results through dashboards or reports.
 - Deployment — Deploy models as APIs or web apps.
 
-## Results & Insights
+## RESULTS AND INSIGHTS
 Each project includes:
 - Performance metrics (accuracy, RMSE, F1-score, etc.)
 - Visualizations (heatmaps, plots, dashboards)
