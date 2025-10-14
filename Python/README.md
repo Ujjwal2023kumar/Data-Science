@@ -24,12 +24,6 @@ This repository is a collection of Python code examples and tutorials designed f
 - Well-organized for step-by-step learning.
 
 ## REQUIREMENTS
-Make sure you have the following installed:
-- python 3.x
-- numpy
-- pandas
-- matplotlib
-
 Install dependencies with:
 ``` pip install numpy pandas matplotlib ```
 
@@ -40,6 +34,3 @@ git clone <your-repo-link>
 cd <repo-name>
 python filename.py
 ```
-
-## Purpose
-This repo is perfect for students learning Python, Beginners practicing data structures and control flow and anyone starting with data analysis in Python.
