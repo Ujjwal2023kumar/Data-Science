@@ -37,13 +37,13 @@ Credit Card Fraud Detection	Detected fraudulent transactions from imbalanced dat
 
 To run any project locally:
 ### Clone this repository
-git clone https://github.com/<your-username>/Data-Science-Projects.git
+``` git clone https://github.com/<your-username>/Data-Science-Projects.git ```
 
 ### Navigate into the project folder
-cd Data-Science-Projects/Project_Name
+``` cd Data-Science-Projects/Project_Name ```
 
 ### Install dependencies
-pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 ## Workflow Overview
 - Data Collection & Cleaning — Handle missing values, outliers, and data types.
