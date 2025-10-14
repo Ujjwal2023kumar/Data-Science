@@ -8,6 +8,10 @@ Projects/
 │
 ├── Virat_Kohli_Career_Statistics/
 ├── Covid-19_Data_Analysis/
+├── Customer_Churn_Prediction/
+├── House_Price_Prediction/
+├── Social_Media_Sentiment_Analysis/
+├── Credit_Card_Fraud_Detection/
 └── README.md
 ```
 
@@ -17,14 +21,6 @@ Each project folder includes:
 - scripts/ → Python scripts for data cleaning, feature engineering, training, etc.
 - models/ → trained models or checkpoints
 - results/ → visualizations, metrics, and reports
-
-🚀 Featured Projects
-Project	Description	Key Techniques
-Customer Churn Prediction	Predicted telecom customer churn using logistic regression & random forests.	EDA, Feature Engineering, SMOTE, Classification
-House Price Prediction	Built a regression model to predict house prices.	Linear Regression, XGBoost, Feature Scaling
-Sentiment Analysis	Classified tweets into positive, negative, and neutral sentiments.	NLP, Word Embeddings, LSTM
-Sales Forecasting	Forecasted sales using time series models.	ARIMA, Prophet, Seasonal Decomposition
-Credit Card Fraud Detection	Detected fraudulent transactions from imbalanced data.	Anomaly Detection, Ensemble Methods
 
 ## Tech Stack
 - Languages: Python, SQL
