@@ -10,7 +10,7 @@ This repository is a collection of Python code examples and tutorials designed f
 - _09String.py – String operations and manipulations.
 - _10List.py – List operations and methods.
 - _11Set.py – Working with sets in Python.
-- dictionaryProgram.py – Dictionary operations and examples.
+- _12Dictionary.py – Dictionary operations and examples.
 
 ### DATA ANALYSIS LIBRARIES
 - _01Numpy.py – Basics of NumPy: arrays, operations, and computations.
