@@ -3,12 +3,13 @@ Welcome to my Data Science Projects repository!
 This repo contains multiple end-to-end data science projects that showcase real-world data analysis, machine learning, visualization, and model deployment skills.
 
 ## Repository Structure
-'''Projects/
+```
+Projects/
 │
 ├── Virat_Kohli_Career_Statistics/
 ├── Covid-19_Data_Analysis/
-└── README.md'''
-
+└── README.md
+```
 
 Each project folder includes:
 - data/ → raw and processed datasets
