@@ -24,7 +24,6 @@ The dashboard transforms raw COVID-19 data into interactive insights, highlighti
 - Visualization reveals the importance of timely vaccination rollouts
 
 ## TOOLS AND TECHNOLOGIES
-- Power BI – Dashboard creation & data visualization
-- Microsoft Excel – Data cleaning and preparation
-- Power Query – Data transformation
-- DAX – Calculations and measures
+- Data Analytics: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly), SQL, PowerBI, Excel
+- Machine Learning Models: Linear Regression, Random Forest, XGBoost, LSTM
+- Platforms: Kaggle, Jupyter Notebook / Google Colab
