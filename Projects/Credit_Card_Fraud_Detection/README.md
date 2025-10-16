@@ -15,11 +15,10 @@ This project focuses on detecting fraudulent credit card transactions using adva
 - Visualization Dashboard: Interactive Power BI reports showcasing fraud trends and model performance
 
 ## KEY INSIGHTS
-
-- Peak global infection occurred in mid-2021, followed by recovery trends
-- Countries with higher vaccination rates showed a significant drop in death rates
-- Asia and Europe reported the largest share of global cases
-- Visualization reveals the importance of timely vaccination rollouts
+- Fraudulent transactions often occur in specific time intervals and with abnormal amounts
+- Class imbalance is a major challenge, requiring effective resampling techniques (SMOTE, ADASYN)
+- Ensemble methods (Random Forest, XGBoost) outperform linear models in fraud detection
+- Real-time monitoring and anomaly detection greatly reduce potential financial loss
 
 ## TOOLS AND TECHNOLOGIES
 - Data Analytics: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly), SQL, PowerBI, Excel
