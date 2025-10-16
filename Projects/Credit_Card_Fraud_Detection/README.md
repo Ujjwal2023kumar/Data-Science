@@ -2,10 +2,10 @@
 This project focuses on detecting fraudulent credit card transactions using advanced data analytics and machine learning techniques. The system analyzes transaction patterns to differentiate between legitimate and fraudulent activities, providing actionable insights and real-time fraud detection capabilities.
 
 ## OBJECTIVES
-- Convert raw COVID-19 data into meaningful, actionable insights
-- Build dynamic and interactive Power BI dashboards
-- Track trends in confirmed cases, deaths, and vaccination rates
-- Demonstrate data storytelling through analytical visualization
+- Identify and classify fraudulent credit card transactions
+- Build a robust and accurate machine learning model for fraud detection
+- Perform data preprocessing, feature engineering, and model optimization
+- Visualize transaction insights and fraud patterns through interactive dashboards
 
 ## FEATURES
 
