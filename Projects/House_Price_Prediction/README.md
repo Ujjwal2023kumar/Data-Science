@@ -1,28 +1,24 @@
-# House_Price_Prediction
-# COVID-19 DATA ANALYSIS
-This project analyzes and visualizes the global impact of the COVID-19 pandemic (2020–2025) using Microsoft Power BI.
-The dashboard transforms raw COVID-19 data into interactive insights, highlighting trends in confirmed cases, deaths, recoveries, testing, and vaccination progress across countries and time.
+# HOUSE PRICE PREDICTION
+This project focuses on predicting house prices using advanced data analytics and machine learning techniques. The goal is to analyze various housing features such as location, size, number of rooms, and amenities to estimate property values accurately. The Power BI dashboard and predictive models together transform raw real estate data into actionable insights for buyers, sellers, and investors.
 
 ## OBJECTIVES
-- Convert raw COVID-19 data into meaningful, actionable insights
-- Build dynamic and interactive Power BI dashboards
-- Track trends in confirmed cases, deaths, and vaccination rates
-- Demonstrate data storytelling through analytical visualization
+- Analyze housing data to identify key factors influencing property prices
+- Build accurate predictive models for estimating house prices
+- Develop interactive dashboards for visualizing pricing trends and comparisons
+- Demonstrate data-driven insights to assist in real estate decision-making
 
 ## FEATURES
-
-- Interactive Filters: Filter by country, continent, and time period
-- Dynamic Visuals: Donut charts, bar graphs, and line charts to compare key metrics
-- KPIs: Total cases, total deaths, recovery rate, and vaccination percentage
-- Trend Analysis: Time-series trends for daily and cumulative statistics
-- Comparative Insights: Country-wise and continent-wise comparisons
+- Interactive Filters: Filter by city, property type, and price range
+- Dynamic Visuals: Bar graphs, scatter plots, and line charts to show pricing trends
+- KPIs: Average price, price per square foot, demand index, and growth rate
+- Trend Analysis: Study of housing price fluctuations over time
+- Comparative Insights: Comparison of property prices across locations and features
 
 ## KEY INSIGHTS
-
-- Peak global infection occurred in mid-2021, followed by recovery trends
-- Countries with higher vaccination rates showed a significant drop in death rates
-- Asia and Europe reported the largest share of global cases
-- Visualization reveals the importance of timely vaccination rollouts
+- Location, property size, and number of rooms are major determinants of price
+- Urban areas show higher price growth compared to suburban regions
+- Feature engineering (e.g., distance to city center, amenities) improves prediction accuracy
+- Visualization reveals market patterns useful for both investors and policymakers
 
 ## TOOLS AND TECHNOLOGIES
 - Data Analytics: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly), SQL, PowerBI, Excel
