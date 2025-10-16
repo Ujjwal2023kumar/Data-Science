@@ -8,12 +8,11 @@ This project focuses on detecting fraudulent credit card transactions using adva
 - Visualize transaction insights and fraud patterns through interactive dashboards
 
 ## FEATURES
-
-- Interactive Filters: Filter by country, continent, and time period
-- Dynamic Visuals: Donut charts, bar graphs, and line charts to compare key metrics
-- KPIs: Total cases, total deaths, recovery rate, and vaccination percentage
-- Trend Analysis: Time-series trends for daily and cumulative statistics
-- Comparative Insights: Country-wise and continent-wise comparisons
+- Data Preprocessing: Handling missing values, class imbalance, and outlier detection
+- Feature Engineering: Creating new features from transaction time, amount, and user behavior
+- Machine Learning Models: Training and comparing multiple models for optimal accuracy
+- Performance Metrics: Precision, Recall, F1-score, ROC-AUC for model evaluation
+- Visualization Dashboard: Interactive Power BI reports showcasing fraud trends and model performance
 
 ## KEY INSIGHTS
 
