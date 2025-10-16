@@ -1,7 +1,5 @@
-# Credit_Card_Fraud_Detection
-# COVID-19 DATA ANALYSIS
-This project analyzes and visualizes the global impact of the COVID-19 pandemic (2020–2025) using Microsoft Power BI.
-The dashboard transforms raw COVID-19 data into interactive insights, highlighting trends in confirmed cases, deaths, recoveries, testing, and vaccination progress across countries and time.
+# CREDIT CARD FRAUD DETECTION
+This project focuses on detecting fraudulent credit card transactions using advanced data analytics and machine learning techniques. The system analyzes transaction patterns to differentiate between legitimate and fraudulent activities, providing actionable insights and real-time fraud detection capabilities.
 
 ## OBJECTIVES
 - Convert raw COVID-19 data into meaningful, actionable insights
