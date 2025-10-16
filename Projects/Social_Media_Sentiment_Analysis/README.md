@@ -1,28 +1,24 @@
 # Social_Media_Sentiment_Analysis
-# COVID-19 DATA ANALYSIS
-This project analyzes and visualizes the global impact of the COVID-19 pandemic (2020–2025) using Microsoft Power BI.
-The dashboard transforms raw COVID-19 data into interactive insights, highlighting trends in confirmed cases, deaths, recoveries, testing, and vaccination progress across countries and time.
+This project focuses on analyzing and visualizing public sentiment from social media platforms using Natural Language Processing (NLP) and machine learning. The goal is to classify posts and comments as positive, negative, or neutral, enabling businesses and organizations to understand public opinion and improve engagement strategies.
 
 ## OBJECTIVES
-- Convert raw COVID-19 data into meaningful, actionable insights
-- Build dynamic and interactive Power BI dashboards
-- Track trends in confirmed cases, deaths, and vaccination rates
-- Demonstrate data storytelling through analytical visualization
+- Analyze text data from social media to determine public sentiment
+- Build machine learning and NLP models for sentiment classification
+- Visualize sentiment trends and patterns through interactive dashboards
+- Extract actionable insights to support brand monitoring and decision-making
 
 ## FEATURES
-
-- Interactive Filters: Filter by country, continent, and time period
-- Dynamic Visuals: Donut charts, bar graphs, and line charts to compare key metrics
-- KPIs: Total cases, total deaths, recovery rate, and vaccination percentage
-- Trend Analysis: Time-series trends for daily and cumulative statistics
-- Comparative Insights: Country-wise and continent-wise comparisons
+- Text Preprocessing: Tokenization, stop-word removal, stemming, and lemmatization
+- Sentiment Classification: Identify sentiment polarity (positive, negative, neutral)
+- Interactive Dashboards: Filter by keyword, topic, or time period
+- Dynamic Visuals: Word clouds, bar charts, and trend lines showing sentiment distribution
+- Comparative Insights: Analyze sentiment across different brands, products, or timeframes
 
 ## KEY INSIGHTS
-
-- Peak global infection occurred in mid-2021, followed by recovery trends
-- Countries with higher vaccination rates showed a significant drop in death rates
-- Asia and Europe reported the largest share of global cases
-- Visualization reveals the importance of timely vaccination rollouts
+- Public sentiment fluctuates significantly during product launches or major events
+- Negative sentiment often correlates with service issues or policy changes
+- Visual analysis helps identify key discussion themes and trending topics
+- Businesses can use sentiment trends to enhance marketing and customer satisfaction
 
 ## TOOLS AND TECHNOLOGIES
 - Data Analytics: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly), SQL, PowerBI, Excel
