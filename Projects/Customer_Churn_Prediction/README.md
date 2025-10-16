@@ -1,28 +1,24 @@
-# Customer_Churn_Prediction
-# COVID-19 DATA ANALYSIS
-This project analyzes and visualizes the global impact of the COVID-19 pandemic (2020–2025) using Microsoft Power BI.
-The dashboard transforms raw COVID-19 data into interactive insights, highlighting trends in confirmed cases, deaths, recoveries, testing, and vaccination progress across countries and time.
+# CUSTOMER CHURN PREDICTION
+This project focuses on predicting customer churn using data analytics and machine learning. The goal is to identify customers who are likely to leave a service or subscription, enabling proactive retention strategies. The analysis transforms raw customer data into actionable insights through interactive Power BI dashboards and predictive modeling.
 
 ## OBJECTIVES
-- Convert raw COVID-19 data into meaningful, actionable insights
-- Build dynamic and interactive Power BI dashboards
-- Track trends in confirmed cases, deaths, and vaccination rates
-- Demonstrate data storytelling through analytical visualization
+- Analyze customer behavior to identify churn patterns
+- Build predictive models to estimate the likelihood of customer churn
+- Develop dynamic and interactive Power BI dashboards for visualization
+- Enable businesses to take data-driven actions to reduce churn
 
 ## FEATURES
-
-- Interactive Filters: Filter by country, continent, and time period
-- Dynamic Visuals: Donut charts, bar graphs, and line charts to compare key metrics
-- KPIs: Total cases, total deaths, recovery rate, and vaccination percentage
-- Trend Analysis: Time-series trends for daily and cumulative statistics
-- Comparative Insights: Country-wise and continent-wise comparisons
+- Interactive Filters: Filter by customer segment, region, and service type
+- Dynamic Visuals: Donut charts, bar graphs, and line charts to compare churn vs. retained customers
+- KPIs: Churn rate, customer retention rate, average customer lifetime value, and satisfaction score
+- Trend Analysis: Time-series analysis of customer activity and churn behavior
+- Comparative Insights: Identify high-risk customer groups and key churn drivers
 
 ## KEY INSIGHTS
-
-- Peak global infection occurred in mid-2021, followed by recovery trends
-- Countries with higher vaccination rates showed a significant drop in death rates
-- Asia and Europe reported the largest share of global cases
-- Visualization reveals the importance of timely vaccination rollouts
+- High churn rates often correlate with low engagement or poor customer support
+- Retention improves significantly with loyalty programs and proactive communication
+- Predictive modeling helps identify potential churners with high accuracy
+- Visualization highlights the importance of personalized retention strategies
 
 ## TOOLS AND TECHNOLOGIES
 - Data Analytics: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly), SQL, PowerBI, Excel
