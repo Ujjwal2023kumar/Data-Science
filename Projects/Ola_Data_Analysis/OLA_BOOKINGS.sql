@@ -80,7 +80,7 @@ WHERE Vehicle_Type = 'Prime Sedan';
 SELECT * FROM Max_Min_Driver_Rating;
 
 -- ==========================================================
--- 7️⃣ Retrieve all rides where payment was made using UPI
+-- Retrieve all rides where payment was made using UPI
 -- ==========================================================
 CREATE VIEW UPI_Payment AS
 SELECT *
