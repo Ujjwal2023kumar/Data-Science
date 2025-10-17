@@ -30,7 +30,7 @@ GROUP BY Vehicle_Type;
 SELECT * FROM Ride_Distance_For_Each_Vehicle;
 
 -- ==========================================================
--- 3️⃣ Get the total number of cancelled rides by customers
+-- Get the total number of cancelled rides by customers
 -- ==========================================================
 CREATE VIEW Cancelled_Rides_By_Customers AS
 SELECT 
