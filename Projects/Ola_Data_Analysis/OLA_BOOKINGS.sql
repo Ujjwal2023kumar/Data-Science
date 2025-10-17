@@ -7,7 +7,7 @@ CREATE DATABASE Ola;
 USE Ola;
 
 -- ==========================================================
--- 1️⃣ Retrieve all successful bookings
+-- Retrieve all successful bookings
 -- ==========================================================
 CREATE VIEW Successful_Bookings AS
 SELECT *
