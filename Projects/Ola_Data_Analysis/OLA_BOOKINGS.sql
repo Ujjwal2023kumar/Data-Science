@@ -1,5 +1,5 @@
 -- ==========================================================
--- 📊 OLA Data Analyst Project - SQL Queries
+-- OLA Data Analyst Project - SQL Queries
 -- ==========================================================
 
 -- Step 1: Create and use the database
