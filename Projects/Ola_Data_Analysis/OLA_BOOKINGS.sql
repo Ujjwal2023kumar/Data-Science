@@ -84,7 +84,6 @@ SELECT * FROM AVG_Cust_Rating;
 
 -- ==========================================================
 -- Calculate the total booking value of rides completed successfully
--- ==========================================================
 CREATE VIEW Total_Successful_Ride_Value AS
 SELECT 
     SUM(Booking_Value) AS Total_Successful_Ride_Value
