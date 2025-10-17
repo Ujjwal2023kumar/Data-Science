@@ -55,7 +55,7 @@ LIMIT 5;
 SELECT * FROM Top_5_Customers;
 
 -- ==========================================================
--- 5️⃣ Get the number of rides cancelled by drivers 
+-- Get the number of rides cancelled by drivers 
 --     due to personal and car-related issues
 -- ==========================================================
 CREATE VIEW Rides_Cancelled_By_Drivers_P_C_Issues AS
