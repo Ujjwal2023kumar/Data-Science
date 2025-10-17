@@ -67,7 +67,7 @@ WHERE Canceled_Rides_By_Driver = 'Personal & Car related issue';
 SELECT * FROM Rides_Cancelled_By_Drivers_P_C_Issues;
 
 -- ==========================================================
--- 6️⃣ Find the maximum and minimum driver ratings 
+-- Find the maximum and minimum driver ratings 
 --     for Prime Sedan bookings
 -- ==========================================================
 CREATE VIEW Max_Min_Driver_Rating AS
