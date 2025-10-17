@@ -41,7 +41,7 @@ WHERE Booking_Status = 'Cancelled by Customer';
 SELECT * FROM Cancelled_Rides_By_Customers;
 
 -- ==========================================================
--- 4️⃣ List the top 5 customers who booked the highest number of rides
+-- List the top 5 customers who booked the highest number of rides
 -- ==========================================================
 CREATE VIEW Top_5_Customers AS
 SELECT 
