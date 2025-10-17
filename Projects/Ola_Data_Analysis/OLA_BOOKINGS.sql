@@ -93,7 +93,6 @@ WHERE Booking_Status = 'Success';
 
 SELECT * FROM Total_Successful_Ride_Value;
 
--- ==========================================================
 -- List all incomplete rides along with the reason
 -- ==========================================================
 CREATE VIEW Incomplete_Rides_Reason AS
