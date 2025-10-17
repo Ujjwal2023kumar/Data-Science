@@ -1,14 +1,9 @@
--- ==========================================================
 -- OLA Data Analyst Project - SQL Queries
--- ==========================================================
 
--- Step 1: Create and use the database
 CREATE DATABASE Ola;
 USE Ola;
 
--- ==========================================================
 -- Retrieve all successful bookings
--- ==========================================================
 CREATE VIEW Successful_Bookings AS
 SELECT *
 FROM OLA_BOOKINGS
@@ -17,9 +12,7 @@ WHERE Booking_Status = 'Success';
 -- Retrieve data
 SELECT * FROM Successful_Bookings;
 
--- ==========================================================
 -- Find the average ride distance for each vehicle type
--- ==========================================================
 CREATE VIEW Ride_Distance_For_Each_Vehicle AS
 SELECT 
     Vehicle_Type,
@@ -29,9 +22,7 @@ GROUP BY Vehicle_Type;
 
 SELECT * FROM Ride_Distance_For_Each_Vehicle;
 
--- ==========================================================
 -- Get the total number of cancelled rides by customers
--- ==========================================================
 CREATE VIEW Cancelled_Rides_By_Customers AS
 SELECT 
     COUNT(*) AS Total_Cancelled_By_Customers
@@ -40,9 +31,7 @@ WHERE Booking_Status = 'Cancelled by Customer';
 
 SELECT * FROM Cancelled_Rides_By_Customers;
 
--- ==========================================================
 -- List the top 5 customers who booked the highest number of rides
--- ==========================================================
 CREATE VIEW Top_5_Customers AS
 SELECT 
     Customer_ID,
@@ -54,10 +43,7 @@ LIMIT 5;
 
 SELECT * FROM Top_5_Customers;
 
--- ==========================================================
--- Get the number of rides cancelled by drivers 
---     due to personal and car-related issues
--- ==========================================================
+-- Get the number of rides cancelled by drivers due to personal and car-related issues
 CREATE VIEW Rides_Cancelled_By_Drivers_P_C_Issues AS
 SELECT 
     COUNT(*) AS Total_Rides_Cancelled_By_Driver
@@ -66,10 +52,7 @@ WHERE Canceled_Rides_By_Driver = 'Personal & Car related issue';
 
 SELECT * FROM Rides_Cancelled_By_Drivers_P_C_Issues;
 
--- ==========================================================
--- Find the maximum and minimum driver ratings 
---     for Prime Sedan bookings
--- ==========================================================
+-- Find the maximum and minimum driver ratings for Prime Sedan bookings
 CREATE VIEW Max_Min_Driver_Rating AS
 SELECT 
     MAX(Driver_Ratings) AS Max_Rating,
@@ -79,10 +62,8 @@ WHERE Vehicle_Type = 'Prime Sedan';
 
 SELECT * FROM Max_Min_Driver_Rating;
 
--- ==========================================================
 -- Retrieve all rides where payment was made using UPI
--- ==========================================================
-CREATE VIEW UPI_Payment AS
+6CREATE VIEW UPI_Payment AS
 SELECT *
 FROM OLA_BOOKINGS
 WHERE Payment_Method = 'UPI';
