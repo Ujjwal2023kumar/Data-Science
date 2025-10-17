@@ -1,4 +1,4 @@
-# Social_Media_Sentiment_Analysis
+# SOCIAL MEDIA SENTIMENT ANALYSIS
 This project focuses on analyzing and visualizing public sentiment from social media platforms using Natural Language Processing (NLP) and machine learning. The goal is to classify posts and comments as positive, negative, or neutral, enabling businesses and organizations to understand public opinion and improve engagement strategies.
 
 ## OBJECTIVES
