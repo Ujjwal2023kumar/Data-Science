@@ -18,7 +18,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM Successful_Bookings;
 
 -- ==========================================================
--- 2️⃣ Find the average ride distance for each vehicle type
+-- Find the average ride distance for each vehicle type
 -- ==========================================================
 CREATE VIEW Ride_Distance_For_Each_Vehicle AS
 SELECT 
