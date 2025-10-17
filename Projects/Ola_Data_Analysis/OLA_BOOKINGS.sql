@@ -70,7 +70,6 @@ WHERE Payment_Method = 'UPI';
 
 SELECT * FROM UPI_Payment;
 
--- ==========================================================
 -- Find the average customer rating per vehicle type
 CREATE VIEW AVG_Cust_Rating AS
 SELECT 
