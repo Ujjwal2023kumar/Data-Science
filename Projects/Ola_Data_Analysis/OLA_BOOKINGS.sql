@@ -102,7 +102,7 @@ GROUP BY Vehicle_Type;
 SELECT * FROM AVG_Cust_Rating;
 
 -- ==========================================================
--- 9️⃣ Calculate the total booking value of rides completed successfully
+-- Calculate the total booking value of rides completed successfully
 -- ==========================================================
 CREATE VIEW Total_Successful_Ride_Value AS
 SELECT 
