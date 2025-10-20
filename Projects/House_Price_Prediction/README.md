@@ -21,6 +21,6 @@ This project focuses on predicting house prices using advanced data analytics an
 - Visualization reveals market patterns useful for both investors and policymakers
 
 ## TOOLS AND TECHNOLOGIES
-- Data Analytics: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly), SQL, PowerBI, Excel
+- Data Analytics: Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly), PowerBI, Excel
 - Machine Learning Models: Linear Regression, Random Forest, XGBoost, LSTM
 - Platforms: Kaggle, Jupyter Notebook / Google Colab
