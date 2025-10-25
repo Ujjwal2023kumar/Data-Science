@@ -32,3 +32,6 @@ This project was developed as part of a Power BI course taught by Vishal Khole
 - Microsoft Excel – Data cleaning and preparation
 - Power Query – Data transformation
 - DAX – Calculations and measures
+
+## RESPONSIVE AND DESIGN OF DASHBOARD
+![Dashboard](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/Virat_Kohli_Career_Statistics/VIRAT_KOHLI_STATISTICS.png)
