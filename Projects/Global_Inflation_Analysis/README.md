@@ -53,3 +53,7 @@ Column Description of the Dataset:
 
 Data Preparation
 Data preparation is a critical stage in the data analysis process, encompassing activities aimed at cleaning, transforming, and organizing raw data into a structured format suitable for analysis. This process involves identifying and addressing issues such as missing values, outliers, inconsistencies, and inaccuracies in the dataset, ensuring data quality and reliability.
+
+
+Prepare the Data for Visualization
+Preparing the data for visualization involves cleaning the data to remove irrelevant or missing data, transforming the data into a format that can be easily visualized, exploring the data to identify patterns and trends, filtering the data to focus on specific subsets of data, preparing the data for visualization software, and ensuring the data is accurate and complete. This process helps to make the data easily understandable and ready for creating visualizations to gain insights into the performance and efficiency. Since the data is already cleaned, we can move to visualization.
