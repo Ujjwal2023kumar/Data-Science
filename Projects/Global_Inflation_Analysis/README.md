@@ -12,3 +12,25 @@ Another challenge could be the limited accessibility to historical inflation dat
 
 Scenario 3: Complex Economic Interdependencies 
 The intricate interdependencies among global economies pose a complex challenge in "Power BI Inflation Analysis: Journeying Through Global Economic Terrain." Fluctuations in one country's inflation rate can have ripple effects across other regions, making it difficult to isolate and analyze the drivers of inflation within individual economies. Effectively capturing and analyzing these interdependencies within Power BI requires sophisticated modeling techniques and access to diverse datasets, which may not be readily available or easily integrated into the analysis platform.
+
+Project Flow
+To accomplish this, we have to complete all the activities listed below,
+1)   Data Collection
+o    Collect the dataset,
+o    Connect Data with Power BI
+2)       Data Preparation
+o    Prepare the Data for Visualization
+3)        Data Visualizations
+o    Visualizations
+4)      Dashboard
+o    Responsive and Design of Dashboard
+5)        Report
+o   Report Creation
+6)        Performance Testing
+o    Amount of Data Rendered to DB
+o    Utilization of Data Filters
+o    No. of Calculation fields
+o    No. of Visualizations/Graphs
+7)     Project Demonstration & Documentation
+o    Record explanation Video for project end to end solution
+o    Project Documentation-Step by step project development procedure
