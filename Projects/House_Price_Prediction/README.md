@@ -2,6 +2,8 @@
 
 ![Train Data Dashboard](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/TRAIN_HOUSE_PRICE_DATA.png)
 
+![Test Data Dashboard](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/TEST_HOUSE_PRICE_DATA.png)
+
 This project focuses on predicting house prices using advanced data analytics and machine learning techniques. The goal is to analyze various housing features such as location, size, number of rooms, and amenities to estimate property values accurately. The Power BI dashboard and predictive models together transform raw real estate data into actionable insights for buyers, sellers, and investors.
 
 ## OBJECTIVES
