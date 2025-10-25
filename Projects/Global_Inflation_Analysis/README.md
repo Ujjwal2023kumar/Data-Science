@@ -126,6 +126,7 @@ Activity 1.11: Top 3 inflation rate Countries
 NOTE: Video Explanations for the above Visualizations are in Dashboard and Report sections.
 
 
+Responsive and Design of Dashboard
 
 
 
