@@ -57,3 +57,79 @@ Data preparation is a critical stage in the data analysis process, encompassing 
 
 Prepare the Data for Visualization
 Preparing the data for visualization involves cleaning the data to remove irrelevant or missing data, transforming the data into a format that can be easily visualized, exploring the data to identify patterns and trends, filtering the data to focus on specific subsets of data, preparing the data for visualization software, and ensuring the data is accurate and complete. This process helps to make the data easily understandable and ready for creating visualizations to gain insights into the performance and efficiency. Since the data is already cleaned, we can move to visualization.
+
+
+Data Visualization
+Data visualization is the process of creating graphical representations of data to help people understand and explore the information. The goal of data visualization is to make complex data sets more accessible, intuitive, and easier to interpret. By using visual elements such as charts, graphs, and maps, data visualizations can help people quickly identify patterns, trends, and outliers in the data.
+Activity 1.1: Average Inflation Rate
+
+ 
+
+
+
+
+
+Activity 1.2: Maximum Inflation Rate
+
+
+
+
+Activity 1.3: Total Number of Regions
+
+
+
+
+
+Activity 1.4: InflationRate change over a year
+                      
+
+ 
+ 
+Activity 1.5: Distribution Of Inflationrate Categories.
+                                
+
+Activity 1.6:  Filter applied On Country Column
+
+
+ 
+
+
+
+
+
+Activity 1.7: Average Inflation Rate Change by Country
+
+
+
+
+
+
+Activity 1.8:  inflation rate and adjusted inflation rate change over years
+        
+
+
+
+Activity 1.9: Count of Region By country
+
+
+
+
+Activity 1.10: inflation rate  Distribution
+
+
+
+Activity 1.11: Top 3 inflation rate Countries
+
+
+
+
+NOTE: Video Explanations for the above Visualizations are in Dashboard and Report sections.
+
+
+
+
+
+
+
+
+ 
