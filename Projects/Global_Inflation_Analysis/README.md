@@ -3,16 +3,16 @@
 
 - Our approach involves data collection, preparation, and modeling to build a robust analysis framework. Through insightful visualizations and strategic recommendations, we aim to equip stakeholders with actionable insights for informed decision-making. Our deliverables include an interactive Power BI dashboard showcasing inflation trends and a comprehensive report summarizing analysis findings and recommendations.
 
-### Scenario 1: Lack of Data Integration and Standardization
+### SCENARIO 1: LACK OF DATA INTEGRATION AND STANDARDIZATION
 In the context of "Power BI Inflation Analysis: Journeying Through Global Economic Terrain," a key problem might be the lack of standardized data sources and integration methods. Different regions and organizations may report inflation data differently, leading to inconsistencies and challenges in aggregating and analyzing global inflation trends effectively within Power BI. This lack of standardization hampers the ability to provide accurate and comprehensive insights into inflation dynamics worldwide.
 
-### Scenario 2: Limited Historical Data Accessibility 
+### SCENARIO 2: LIMITED HISTORICAL DATA ACCESSIBILITY
 Another challenge could be the limited accessibility to historical inflation data across various countries and regions. This scarcity of historical data poses a significant obstacle in building robust predictive models within Power BI for forecasting inflation trends accurately. Without a comprehensive historical dataset, analysts may struggle to identify long-term patterns and correlations necessary for making informed decisions and projections.
 
-### Scenario 3: Complex Economic Interdependencies 
+### SCENARIO 3: COMPLEX ECONOMIC INTERDEPENDENCIES
 The intricate interdependencies among global economies pose a complex challenge in "Power BI Inflation Analysis: Journeying Through Global Economic Terrain." Fluctuations in one country's inflation rate can have ripple effects across other regions, making it difficult to isolate and analyze the drivers of inflation within individual economies. Effectively capturing and analyzing these interdependencies within Power BI requires sophisticated modeling techniques and access to diverse datasets, which may not be readily available or easily integrated into the analysis platform.
 
-## Project Flow
+## PROJECT FLOW
 To accomplish this, we have to complete all the activities listed below,
 1)   Data Collection
 o    Collect the dataset,
