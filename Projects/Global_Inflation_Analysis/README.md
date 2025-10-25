@@ -39,3 +39,14 @@ o    Project Documentation-Step by step project development procedure
 Data Collection & Extraction from Database
 Data collection is the process of gathering and measuring information on variables of interest, in an established systematic fashion that enables one to answer stated research questions, test hypotheses, evaluate outcomes and generate insights from the data.
 
+Downloading the dataset
+Please use the link to download the dataset: link
+Activity 1.1: Understand the data
+Data contains all the meta information regarding the columns described in the CSV files.
+Column Description of the Dataset:
+1) Country_name: Name of the Country.
+2) Inflation Rate: Inflation rate of each country.
+3) Region: Region of country which belongs
+4) Year:  represents the calendar year for which the corresponding inflation data is recorded.
+5) AdjustedInflationRate: The 'Adjusted Inflation Rate' column is derived by multiplying the inflation rate by 0.01  .
+6) InflationRateCategory:The 'Inflation Rate' column is categorized as           high, medium, or low based on predefined thresholds.
