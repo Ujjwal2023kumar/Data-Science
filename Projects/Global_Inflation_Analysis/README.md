@@ -50,3 +50,6 @@ Column Description of the Dataset:
 4) Year:  represents the calendar year for which the corresponding inflation data is recorded.
 5) AdjustedInflationRate: The 'Adjusted Inflation Rate' column is derived by multiplying the inflation rate by 0.01  .
 6) InflationRateCategory:The 'Inflation Rate' column is categorized as           high, medium, or low based on predefined thresholds.
+
+Data Preparation
+Data preparation is a critical stage in the data analysis process, encompassing activities aimed at cleaning, transforming, and organizing raw data into a structured format suitable for analysis. This process involves identifying and addressing issues such as missing values, outliers, inconsistencies, and inaccuracies in the dataset, ensuring data quality and reliability.
