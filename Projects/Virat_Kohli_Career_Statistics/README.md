@@ -1,4 +1,6 @@
 # VIRAT KOHLI CAREER STATISTICS – POWER BI PROJECT
+![Dashboard](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/Virat_Kohli_Career_Statistics/VIRAT_KOHLI_STATISTICS.png)
+
 This project analyzes and visualizes Virat Kohli’s cricket career (2008–2025) using Microsoft Power BI.
 The dashboard transforms raw cricket data into interactive insights, showcasing performance trends, strike rates, and consistency across formats.
 
@@ -32,6 +34,3 @@ This project was developed as part of a Power BI course taught by Vishal Khole
 - Microsoft Excel – Data cleaning and preparation
 - Power Query – Data transformation
 - DAX – Calculations and measures
-
-## RESPONSIVE AND DESIGN OF DASHBOARD
-![Dashboard](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/Virat_Kohli_Career_Statistics/VIRAT_KOHLI_STATISTICS.png)
