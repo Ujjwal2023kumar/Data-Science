@@ -58,3 +58,4 @@ Data visualization is the process of creating graphical representations of data 
 - Activity 1.11: Top 3 inflation rate Countries
 
 ## RESPONSIVE AND DESIGN OF DASHBOARD
+![Dashboard]([http://url/to/img.png](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/Global_Inflation_Analysis/Global_Inflation_Analysis.png))
