@@ -34,3 +34,8 @@ o    No. of Visualizations/Graphs
 7)     Project Demonstration & Documentation
 o    Record explanation Video for project end to end solution
 o    Project Documentation-Step by step project development procedure
+
+
+Data Collection & Extraction from Database
+Data collection is the process of gathering and measuring information on variables of interest, in an established systematic fashion that enables one to answer stated research questions, test hypotheses, evaluate outcomes and generate insights from the data.
+
