@@ -1,4 +1,4 @@
-# POWER BI INFLATION ANALYSIS: JOURNEYING THROUGH GLOBAL ECONOMIC TERRAIN
+# GLOBAL INFLATION ANALYSIS: JOURNEYING THROUGH GLOBAL ECONOMIC TERRAIN
 ![Dashboard](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/Global_Inflation_Analysis/Global_Inflation_Analysis.png)
 
 - Inflation, a critical economic indicator, profoundly impacts businesses, consumers, and policymakers worldwide. In this scenario, a multinational corporation operating in diverse markets seeks to optimize pricing strategies, mitigate risks, and make informed investment decisions. Leveraging Power BI's analytical prowess, we delve into inflation data to offer tailored recommendations aligned with each market's unique economic conditions.
