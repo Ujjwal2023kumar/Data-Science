@@ -3,12 +3,9 @@
 This repository is a collection of Python code examples and tutorials designed for beginners and learners who want to practice and strengthen their programming and data analysis skills. It covers core Python concepts as well as commonly used libraries for data-driven projects.
 
 ## REPOSITORY STRUCTURE
-### DATA ANALYSIS LIBRARIES
 - _01Numpy.py – Basics of NumPy: arrays, operations, and computations.
 - _02Pandas.py – Working with Pandas: DataFrames, Series, and data manipulation.
 - _03Matplotlib.py – Data visualization examples using Matplotlib.
-
-### CORE PYTHON PROGRAMS
 - _06Program.py – Simple Python program for beginners.
 - _07Loops.py – Examples of conditional statements and loops.
 - _08Functions.py – Creating and using functions in Python.
@@ -22,15 +19,3 @@ This repository is a collection of Python code examples and tutorials designed f
 - Covers Python basics (data structures, loops, conditionals, functions).
 - Introduces NumPy, Pandas, and Matplotlib for data analysis.
 - Well-organized for step-by-step learning.
-
-## REQUIREMENTS
-Install dependencies with:
-``` pip install numpy pandas matplotlib ```
-
-## Usage
-Clone the repository and run any program:
-```
-git clone <your-repo-link>
-cd <repo-name>
-python filename.py
-```
