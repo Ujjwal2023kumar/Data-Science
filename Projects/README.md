@@ -20,7 +20,7 @@ Projects/
 ## TECH STACK
 - Languages: Python, SQL
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, tensorflow / pytorch
-- Visualization: Power BI, Tableau, Plotly
+- Visualization: Power BI, Plotly
 - Version Control: Git, GitHub
 
 ## WORKFLOW OVERVIEW
