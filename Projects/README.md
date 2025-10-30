@@ -22,17 +22,6 @@ Projects/
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, tensorflow / pytorch
 - Visualization: Power BI, Tableau, Plotly
 - Version Control: Git, GitHub
-- Deployment: Flask, Streamlit, Docker (if applicable)
-
-## INSTALLATION
-### Clone this repository
-``` git clone https://github.com/<your-username>/Data-Science-Projects.git ```
-
-### Navigate into the project folder
-``` cd Data-Science-Projects/Project_Name ```
-
-### Install dependencies
-``` pip install -r requirements.txt ```
 
 ## WORKFLOW OVERVIEW
 - Data Collection & Cleaning — Handle missing values, outliers, and data types.
