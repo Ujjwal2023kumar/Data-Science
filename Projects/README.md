@@ -6,13 +6,9 @@ This repo contains multiple end-to-end data science projects that showcase real-
 ```
 Projects/
 │
-├── Covid-19_Data_Analysis/
-├── Credit_Card_Fraud_Detection/
-├── Customer_Churn_Prediction/
 ├── Global_Inflation_Analysis/
 ├── House_Price_Prediction/
 ├── Ola_Data_Analysis/
-├── Social_Media_Sentiment_Analysis/
 ├── Virat_Kohli_Career_Statistics/
 └── README.md
 ```
